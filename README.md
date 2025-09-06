@@ -49,7 +49,7 @@ An intelligent chat application powered by AI.
 ## **Contact Me**
 Feel free to reach out for collaborations or opportunities:  
 **Email:** [Sujal6067@gmail.com]  
-**LinkedIn:** []  
+**LinkedIn:** [https://www.linkedin.com/in/sujal-arora-91a654266/]  
 **GitHub:** [https://github.com/Sujal0786/]  
 
 ---
